@@ -1,9 +1,12 @@
-Hypotenuse-Java-Project
-=======================
+$ mkdir ~/Hypotenuse-Calculator
+# Creates a directory for your project called "Hypotenuse-Calculator" in your user directory
 
-This is the repository for my Hypotenuse Java Project, a program that takes user input for a right triangle's legs, calculates the hypotenuse, and draws the triangle with labeled dimensions.
+$ cd ~/Hypotenuse-Calculator
+# Changes the current working directory to your newly created directory
 
-mkdir ~/Hypotenuse Calculator
-cd ~/Hypotenuse Calculator
-git init
-touch README
+$ git init
+# Sets up the necessary Git files
+Initialized empty Git repository in /Users/you/Hypotenuse-Calculator/.git/
+
+$ touch README
+# Creates a file called "README" in your Hypotenuse-Calculator directory
