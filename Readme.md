@@ -1,7 +1,7 @@
-Hypotenuse-Java-Project
+Hypotenuse-Calculator
 =======================
 
-This is the repository for my Hypotenuse Java Project, a program that takes user input for a right triangle's legs, calculates the hypotenuse, and draws the triangle with labeled dimensions.
+This is the repository for my Hypotenuse Calculator, a Java program that takes user input for a right triangle's legs, calculates the hypotenuse, and draws the triangle with labeled dimensions.
 
 In this repository, the following will be attached:
   - the Input.java class (main class)
