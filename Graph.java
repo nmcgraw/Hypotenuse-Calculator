@@ -1,13 +1,13 @@
-/*	Author:				Nick McGraw
- * 	Project:			Hypotenuse Calculator
+/*	Author:			Nick McGraw
+ * 	Project:		Hypotenuse Calculator
  * 	Project Purpose:	The program takes input from the user for the lengths of
- * 						two legs of a right triangle, calculates the hypotenuse
- * 						of the right triangle with the given leg lengths, and
- * 						draws the triangle with labeled dimensions.
- * 	Class:				Graph
+ * 				two legs of a right triangle, calculates the hypotenuse
+ * 				of the right triangle with the given leg lengths, and
+ * 				draws the triangle with labeled dimensions.
+ * 	Class:			Graph
  * 	Class Purpose:		When an instance of this class is called, it uses the
- * 						public variables from the Input class to draw correctly
- * 						sized components of the JPanel graphics on the instance.
+ * 				public variables from the Input class to draw correctly
+ * 				sized components of the JPanel graphics on the instance.
  */	
 
 import javax.swing.*;
