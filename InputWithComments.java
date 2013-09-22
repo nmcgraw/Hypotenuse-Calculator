@@ -1,16 +1,16 @@
-/*	Author:				Nick McGraw
- * 	Project:			Hypotenuse Calculator
+/*	Author:			Nick McGraw
+ * 	Project:		Hypotenuse Calculator
  * 	Project Purpose:	The program takes input from the user for the lengths of
- * 						two legs of a right triangle, calculates the hypotenuse
- * 						of the right triangle with the given leg lengths, and
- * 						draws the triangle with labeled dimensions.
- * 	Class:				Input (MAIN)
+ * 				two legs of a right triangle, calculates the hypotenuse
+ * 				of the right triangle with the given leg lengths, and
+ * 				draws the triangle with labeled dimensions.
+ * 	Class:			Input (MAIN)
  * 	Class Purpose:		Upon execution, a JFrame window appears with two labels,
- * 						two text fields, and a button. When the user clicks the
- * 						button, the program uses parse methods to store the
- * 						values entered in the text fields into two public
- * 						variables. An instance of the Graph class is made, using
- * 						the variables to determine its size.
+ * 				two text fields, and a button. When the user clicks the
+ * 				button, the program uses parse methods to store the
+ * 				values entered in the text fields into two public
+ * 				variables. An instance of the Graph class is made, using
+ * 				the variables to determine its size.
  * 
  * **********READ THE COMMENTS ON THIS CLASS FIRST**********
  * **********READ THE COMMENTS ON THIS CLASS FIRST**********
